@@ -1,27 +1,39 @@
 # Change these first
-owner: bachmannschumacher # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: bachmannschumacher
+repo: upptime
+
+assignees:
+  - thomasrehm
 
 sites:
   - name: Bachmann + Schumacher Website
-    url: https://bachmannschumacher.com/
+    url: https://bachmannschumacher.com
   - name: SM Service
-    url: http://smservice.de/
+    url: http://smservice.de
   - name: 2rad circle
     url: https://2rad-circle.de
   - name: 2rad circle App
     url: https://app.2rad-circle.de
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: bachmannschumacher.github.io
+#  cname: bachmannschumacher.github.io
   baseUrl: /upptime
+  theme: dark
+  robotsText: "User-agent: * \n Disallow: /"
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Bachmann + Schumacher Uptime 
   navbar:
     - title: Status
       href: /
 
-# Upptime also supports notifications, assigning issues, and more
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/15 * * * *"
+
+
 # See https://upptime.js.org/docs/configuration

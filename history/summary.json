@@ -1,7 +1,7 @@
 [
   {
     "name": "Bachmann + Schumacher Website",
-    "url": "https://bachmannschumacher.com/",
+    "url": "https://bachmannschumacher.com",
     "icon": "https://favicons.githubusercontent.com/bachmannschumacher.com",
     "slug": "bachmann-schumacher-website",
     "status": "up",
@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 697,
-    "timeWeek": 782,
-    "timeMonth": 782,
-    "timeYear": 782,
+    "time": 866,
+    "timeDay": 951,
+    "timeWeek": 866,
+    "timeMonth": 866,
+    "timeYear": 866,
     "dailyMinutesDown": {}
   },
   {
     "name": "SM Service",
-    "url": "http://smservice.de/",
+    "url": "http://smservice.de",
     "icon": "https://favicons.githubusercontent.com/smservice.de",
     "slug": "sm-service",
     "status": "up",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 521,
-    "timeWeek": 565,
-    "timeMonth": 565,
-    "timeYear": 565,
+    "time": 609,
+    "timeDay": 654,
+    "timeWeek": 609,
+    "timeMonth": 609,
+    "timeYear": 609,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2474,
-    "timeDay": 3001,
-    "timeWeek": 2474,
-    "timeMonth": 2474,
-    "timeYear": 2474,
+    "time": 2450,
+    "timeDay": 2678,
+    "timeWeek": 2450,
+    "timeMonth": 2450,
+    "timeYear": 2450,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 471,
-    "timeDay": 359,
-    "timeWeek": 471,
-    "timeMonth": 471,
-    "timeYear": 471,
+    "time": 482,
+    "timeDay": 443,
+    "timeWeek": 482,
+    "timeMonth": 482,
+    "timeYear": 482,
     "dailyMinutesDown": {}
   }
 ]

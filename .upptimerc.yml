@@ -14,6 +14,8 @@ sites:
     url: https://2rad-circle.de
   - name: 2rad circle App
     url: https://app.2rad-circle.de
+  - name: 2rad circle App (old)
+    url: https://app.2rad-circle-badvilbel.de
 
 status-website:
 #  cname: bachmannschumacher.github.io

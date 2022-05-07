@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 973,
-    "timeDay": 1265,
-    "timeWeek": 1082,
-    "timeMonth": 973,
-    "timeYear": 973,
+    "time": 965,
+    "timeDay": 751,
+    "timeWeek": 1087,
+    "timeMonth": 965,
+    "timeYear": 965,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 795,
-    "timeDay": 833,
-    "timeWeek": 760,
-    "timeMonth": 795,
-    "timeYear": 795,
+    "time": 789,
+    "timeDay": 620,
+    "timeWeek": 769,
+    "timeMonth": 789,
+    "timeYear": 789,
     "dailyMinutesDown": {}
   },
   {
@@ -42,15 +42,15 @@
     "slug": "2rad-circle",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.53%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 2564,
-    "timeDay": 3244,
-    "timeWeek": 2778,
-    "timeMonth": 2564,
-    "timeYear": 2564,
+    "time": 2558,
+    "timeDay": 2370,
+    "timeWeek": 2792,
+    "timeMonth": 2558,
+    "timeYear": 2558,
     "dailyMinutesDown": {
       "2022-05-05": 21
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 964,
-    "timeWeek": 728,
-    "timeMonth": 622,
-    "timeYear": 622,
+    "time": 616,
+    "timeDay": 448,
+    "timeWeek": 716,
+    "timeMonth": 616,
+    "timeYear": 616,
     "dailyMinutesDown": {}
   }
 ]

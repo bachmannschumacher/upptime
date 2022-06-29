@@ -50,10 +50,10 @@
     "url": "https://2rad-circle.de",
     "icon": "https://favicons.githubusercontent.com/2rad-circle.de",
     "slug": "2rad-circle",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 2594,
@@ -62,6 +62,7 @@
     "timeMonth": 2531,
     "timeYear": 2594,
     "dailyMinutesDown": {
+      "2022-06-29": 1,
       "2022-05-09": 17,
       "2022-05-05": 21
     }
@@ -89,9 +90,9 @@
     "url": "https://erpnext.bachmannschumacher.com",
     "icon": "https://favicons.githubusercontent.com/erpnext.bachmannschumacher.com",
     "slug": "erp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -100,6 +101,8 @@
     "timeWeek": 1154,
     "timeMonth": 1048,
     "timeYear": 1048,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-29": 0
+    }
   }
 ]

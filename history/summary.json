@@ -4,19 +4,19 @@
     "url": "https://bachmannschumacher.com",
     "icon": "https://favicons.githubusercontent.com/bachmannschumacher.com",
     "slug": "bachmann-schumacher-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 958,
-    "timeDay": 716,
-    "timeWeek": 876,
-    "timeMonth": 998,
-    "timeYear": 958,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 954,
+    "timeDay": 685,
+    "timeWeek": 848,
+    "timeMonth": 987,
+    "timeYear": 954,
     "dailyMinutesDown": {
-      "2022-07-22": 0
+      "2022-07-22": 18
     }
   },
   {

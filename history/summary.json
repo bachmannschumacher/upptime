@@ -4,9 +4,9 @@
     "url": "https://bachmannschumacher.com",
     "icon": "https://favicons.githubusercontent.com/bachmannschumacher.com",
     "slug": "bachmann-schumacher-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 911,
     "timeYear": 931,
     "dailyMinutesDown": {
+      "2022-09-16": 0,
       "2022-07-22": 18
     }
   },
@@ -25,15 +26,15 @@
     "icon": "https://favicons.githubusercontent.com/smservice.de",
     "slug": "sm-service",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "98.39%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "98.95%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.41%",
     "time": 1113,
     "timeDay": 3889,
     "timeWeek": 2534,
-    "timeMonth": 2011,
+    "timeMonth": 2036,
     "timeYear": 1113,
     "dailyMinutesDown": {
       "2022-09-15": 23,
@@ -74,9 +75,9 @@
     "url": "https://2rad-circle.de",
     "icon": "https://favicons.githubusercontent.com/2rad-circle.de",
     "slug": "2rad-circle",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.41%",
+    "uptimeDay": "98.40%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -86,6 +87,7 @@
     "timeMonth": 2461,
     "timeYear": 2538,
     "dailyMinutesDown": {
+      "2022-09-16": 0,
       "2022-09-15": 23,
       "2022-05-09": 17,
       "2022-05-05": 21

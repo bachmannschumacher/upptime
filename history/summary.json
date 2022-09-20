@@ -25,7 +25,7 @@
     "url": "http://smservice.de",
     "icon": "https://favicons.githubusercontent.com/smservice.de",
     "slug": "sm-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
     "uptimeDay": "97.41%",
     "uptimeWeek": "98.59%",
@@ -37,6 +37,7 @@
     "timeMonth": 2216,
     "timeYear": 1197,
     "dailyMinutesDown": {
+      "2022-09-20": 0,
       "2022-09-19": 37,
       "2022-09-18": 61,
       "2022-09-15": 23,

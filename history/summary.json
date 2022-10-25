@@ -4,9 +4,9 @@
     "url": "https://bachmannschumacher.com",
     "icon": "https://icons.duckduckgo.com/ip3/bachmannschumacher.com.ico",
     "slug": "bachmann-schumacher-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 873,
     "timeYear": 918,
     "dailyMinutesDown": {
+      "2022-10-25": 0,
       "2022-09-16": 22,
       "2022-07-22": 18
     }
@@ -83,9 +84,9 @@
     "url": "https://2rad-circle.de",
     "icon": "https://icons.duckduckgo.com/ip3/2rad-circle.de.ico",
     "slug": "2rad-circle",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
@@ -95,6 +96,7 @@
     "timeMonth": 3024,
     "timeYear": 2616,
     "dailyMinutesDown": {
+      "2022-10-25": 0,
       "2022-09-21": 400,
       "2022-09-16": 22,
       "2022-09-15": 23,

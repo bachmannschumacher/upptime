@@ -16,6 +16,10 @@ sites:
     url: https://app.2rad-circle.de
   - name: ERP
     url: https://erpnext.bachmannschumacher.com
+  - name: Winterdienst Akademie
+    url: https://learn.bachmannschumacher.com
+  - name: BusCamper
+    url: https://bus-camper.de
 
 status-website:
 #  cname: bachmannschumacher.github.io

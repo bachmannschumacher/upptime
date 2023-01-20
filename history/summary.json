@@ -183,17 +183,19 @@
     "url": "https://bus-camper.de",
     "icon": "https://icons.duckduckgo.com/ip3/bus-camper.de.ico",
     "slug": "bus-camper",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 578,
-    "timeDay": 546,
-    "timeWeek": 630,
-    "timeMonth": 607,
-    "timeYear": 578,
-    "dailyMinutesDown": {}
+    "time": 577,
+    "timeDay": 531,
+    "timeWeek": 616,
+    "timeMonth": 604,
+    "timeYear": 577,
+    "dailyMinutesDown": {
+      "2023-01-20": 0
+    }
   }
 ]

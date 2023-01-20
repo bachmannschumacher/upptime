@@ -1,7 +1,7 @@
 url: https://bus-camper.de
-status: down
-code: 401
-responseTime: 515
-lastUpdated: 2023-01-20T10:46:38.439Z
+status: up
+code: 200
+responseTime: 1647
+lastUpdated: 2023-01-20T13:46:42.179Z
 startTime: Mon Nov 07 2022 09:02:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

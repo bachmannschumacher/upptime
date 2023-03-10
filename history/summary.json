@@ -31,9 +31,9 @@
     "slug": "sm-service",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.49%",
     "time": 1467,
     "timeDay": 1285,
@@ -41,7 +41,6 @@
     "timeMonth": 1754,
     "timeYear": 1467,
     "dailyMinutesDown": {
-      "2023-03-10": 8,
       "2023-03-01": 20,
       "2023-02-28": 21,
       "2023-02-20": 52,
@@ -157,9 +156,9 @@
     "url": "https://erpnext.bachmannschumacher.com",
     "icon": "https://icons.duckduckgo.com/ip3/erpnext.bachmannschumacher.com.ico",
     "slug": "erp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -169,6 +168,7 @@
     "timeMonth": 1110,
     "timeYear": 1091,
     "dailyMinutesDown": {
+      "2023-03-10": 0,
       "2023-01-25": 38,
       "2022-12-28": 60
     }

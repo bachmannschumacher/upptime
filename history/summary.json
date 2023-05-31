@@ -29,18 +29,19 @@
     "url": "http://smservice.de",
     "icon": "https://icons.duckduckgo.com/ip3/smservice.de.ico",
     "slug": "sm-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "89.92%",
+    "uptimeDay": "91.56%",
     "uptimeWeek": "86.90%",
-    "uptimeMonth": "94.16%",
-    "uptimeYear": "99.51%",
+    "uptimeMonth": "94.20%",
+    "uptimeYear": "99.52%",
     "time": 1421,
-    "timeDay": 1194,
+    "timeDay": 1191,
     "timeWeek": 1272,
     "timeMonth": 1338,
     "timeYear": 1442,
     "dailyMinutesDown": {
+      "2023-05-31": 0,
       "2023-05-30": 145,
       "2023-05-29": 241,
       "2023-05-28": 126,
@@ -54,7 +55,7 @@
       "2023-05-20": 193,
       "2023-05-19": 135,
       "2023-05-18": 260,
-      "2023-05-17": 66
+      "2023-05-17": 51
     }
   },
   {

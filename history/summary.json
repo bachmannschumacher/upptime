@@ -32,17 +32,16 @@
     "slug": "sm-service",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "90.89%",
-    "uptimeMonth": "94.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "91.03%",
+    "uptimeMonth": "94.26%",
     "uptimeYear": "99.52%",
     "time": 1403,
-    "timeDay": 1321,
+    "timeDay": 1316,
     "timeWeek": 1303,
     "timeMonth": 1351,
     "timeYear": 1419,
     "dailyMinutesDown": {
-      "2023-09-06": 14,
       "2023-09-05": 121,
       "2023-09-04": 139,
       "2023-09-03": 88,
@@ -65,7 +64,7 @@
       "2023-08-17": 54,
       "2023-08-16": 24,
       "2023-08-15": 26,
-      "2023-08-13": 35
+      "2023-08-13": 55
     }
   },
   {
@@ -73,9 +72,9 @@
     "url": "https://2rad-circle.de",
     "icon": "https://icons.duckduckgo.com/ip3/2rad-circle.de.ico",
     "slug": "2rad-circle",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.84%",
@@ -85,6 +84,7 @@
     "timeMonth": 1412,
     "timeYear": 1759,
     "dailyMinutesDown": {
+      "2023-09-06": 0,
       "2023-09-02": 17,
       "2023-07-12": 20,
       "2023-07-10": 20,

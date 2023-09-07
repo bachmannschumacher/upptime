@@ -32,17 +32,17 @@
     "slug": "sm-service",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "93.06%",
-    "uptimeWeek": "91.42%",
-    "uptimeMonth": "94.32%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "93.77%",
+    "uptimeWeek": "91.66%",
+    "uptimeMonth": "94.30%",
+    "uptimeYear": "99.52%",
     "time": 1406,
-    "timeDay": 1203,
-    "timeWeek": 1291,
+    "timeDay": 1219,
+    "timeWeek": 1292,
     "timeMonth": 1349,
     "timeYear": 1416,
     "dailyMinutesDown": {
-      "2023-09-07": 99,
+      "2023-09-07": 89,
       "2023-09-05": 121,
       "2023-09-04": 139,
       "2023-09-03": 88,
@@ -62,7 +62,7 @@
       "2023-08-20": 137,
       "2023-08-19": 181,
       "2023-08-18": 36,
-      "2023-08-17": 34
+      "2023-08-17": 54
     }
   },
   {
@@ -145,9 +145,9 @@
     "url": "https://learn.bachmannschumacher.com",
     "icon": "https://icons.duckduckgo.com/ip3/learn.bachmannschumacher.com.ico",
     "slug": "winterdienst-akademie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.94%",
@@ -157,6 +157,7 @@
     "timeMonth": 2270,
     "timeYear": 2417,
     "dailyMinutesDown": {
+      "2023-09-07": 0,
       "2023-09-04": 16,
       "2023-09-03": 18,
       "2023-08-27": 17,

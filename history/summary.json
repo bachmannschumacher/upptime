@@ -6,16 +6,17 @@
     "slug": "bachmann-schumacher-website",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
-    "time": 932,
+    "time": 933,
     "timeDay": 1342,
     "timeWeek": 1112,
     "timeMonth": 1084,
     "timeYear": 938,
     "dailyMinutesDown": {
+      "2023-09-17": 0,
       "2023-09-14": 38,
       "2023-07-12": 21,
       "2023-06-14": 18,
@@ -32,8 +33,8 @@
     "slug": "sm-service",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "92.23%",
-    "uptimeWeek": "88.38%",
+    "uptimeDay": "93.24%",
+    "uptimeWeek": "88.52%",
     "uptimeMonth": "93.67%",
     "uptimeYear": "99.47%",
     "time": 1405,
@@ -42,7 +43,7 @@
     "timeMonth": 1341,
     "timeYear": 1400,
     "dailyMinutesDown": {
-      "2023-09-17": 94,
+      "2023-09-17": 79,
       "2023-09-16": 114,
       "2023-09-15": 181,
       "2023-09-14": 157,
@@ -59,7 +60,7 @@
       "2023-09-02": 368,
       "2023-09-01": 35,
       "2023-08-31": 154,
-      "2023-08-30": 82
+      "2023-08-30": 98
     }
   },
   {

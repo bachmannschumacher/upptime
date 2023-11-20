@@ -8,7 +8,7 @@
     "uptime": "97.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.87%",
+    "uptimeMonth": "59.10%",
     "uptimeYear": "95.89%",
     "time": 945,
     "timeDay": 894,
@@ -48,9 +48,9 @@
     "slug": "sm-service",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "95.03%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "95.06%",
     "uptimeYear": "99.48%",
     "time": 1421,
     "timeDay": 1383,
@@ -58,7 +58,7 @@
     "timeMonth": 1577,
     "timeYear": 1398,
     "dailyMinutesDown": {
-      "2023-11-19": 50,
+      "2023-11-19": 39,
       "2023-11-17": 27,
       "2023-11-16": 52,
       "2023-11-15": 33,
@@ -88,7 +88,7 @@
       "2023-10-18": 133,
       "2023-10-17": 19,
       "2023-10-16": 159,
-      "2023-10-15": 103
+      "2023-10-15": 121
     }
   },
   {

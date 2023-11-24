@@ -8,7 +8,7 @@
     "uptime": "97.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "72.05%",
+    "uptimeMonth": "72.24%",
     "uptimeYear": "95.89%",
     "time": 946,
     "timeDay": 966,
@@ -47,10 +47,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/smservice.de.ico",
     "slug": "sm-service",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "98.24%",
-    "uptimeMonth": "96.38%",
+    "uptime": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "96.41%",
     "uptimeYear": "99.49%",
     "time": 1421,
     "timeDay": 3709,
@@ -58,7 +58,6 @@
     "timeMonth": 1661,
     "timeYear": 1403,
     "dailyMinutesDown": {
-      "2023-11-23": 14,
       "2023-11-22": 17,
       "2023-11-21": 20,
       "2023-11-20": 61,
@@ -91,7 +90,7 @@
       "2023-10-19": 147,
       "2023-10-18": 133,
       "2023-10-17": 19,
-      "2023-10-16": 102
+      "2023-10-16": 138
     }
   },
   {
@@ -117,8 +116,7 @@
       "2023-07-10": 20,
       "2023-01-31": 18,
       "2023-01-25": 77,
-      "2022-11-25": 39,
-      "2022-11-24": 52
+      "2022-11-25": 39
     }
   },
   {
@@ -147,18 +145,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/erpnext.bachmannschumacher.com.ico",
     "slug": "erp",
     "status": "down",
-    "uptime": "99.66%",
+    "uptime": "99.65%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.90%",
-    "uptimeMonth": "94.91%",
-    "uptimeYear": "99.49%",
+    "uptimeWeek": "77.05%",
+    "uptimeMonth": "94.72%",
+    "uptimeYear": "99.48%",
     "time": 1090,
     "timeDay": 875,
     "timeWeek": 986,
     "timeMonth": 1097,
     "timeYear": 1099,
     "dailyMinutesDown": {
-      "2023-11-23": 1427,
+      "2023-11-24": 73,
+      "2023-11-23": 1440,
       "2023-11-22": 801,
       "2023-07-21": 175,
       "2023-04-11": 140,
@@ -194,8 +193,7 @@
       "2023-07-12": 20,
       "2023-01-25": 59,
       "2023-01-22": 18,
-      "2022-11-25": 39,
-      "2022-11-24": 52
+      "2022-11-25": 39
     }
   },
   {

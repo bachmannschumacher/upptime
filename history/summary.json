@@ -4,9 +4,9 @@
     "url": "https://bachmannschumacher.com",
     "icon": "https://icons.duckduckgo.com/ip3/bachmannschumacher.com.ico",
     "slug": "bachmann-schumacher-website",
-    "status": "up",
+    "status": "down",
     "uptime": "97.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.89%",
@@ -16,6 +16,7 @@
     "timeMonth": 1095,
     "timeYear": 974,
     "dailyMinutesDown": {
+      "2023-12-13": 0,
       "2023-11-01": 710,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
@@ -48,17 +49,16 @@
     "slug": "sm-service",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "98.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "98.17%",
     "uptimeYear": "99.52%",
     "time": 1417,
-    "timeDay": 1540,
-    "timeWeek": 1646,
+    "timeDay": 1583,
+    "timeWeek": 1647,
     "timeMonth": 1756,
     "timeYear": 1414,
     "dailyMinutesDown": {
-      "2023-12-13": 7,
       "2023-12-12": 20,
       "2023-12-11": 53,
       "2023-12-10": 30,
@@ -100,7 +100,7 @@
       "2023-10-24": 188,
       "2023-10-23": 185,
       "2023-10-22": 182,
-      "2023-10-21": 35
+      "2023-10-21": 55
     }
   },
   {

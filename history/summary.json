@@ -47,10 +47,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/smservice.de.ico",
     "slug": "sm-service",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "98.27%",
+    "uptime": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.30%",
     "uptimeYear": "99.53%",
     "time": 1426,
     "timeDay": 2248,
@@ -58,7 +58,6 @@
     "timeMonth": 1724,
     "timeYear": 1419,
     "dailyMinutesDown": {
-      "2023-12-26": 14,
       "2023-12-24": 20,
       "2023-12-23": 15,
       "2023-12-22": 61,
@@ -106,7 +105,8 @@
       "2023-10-27": 157,
       "2023-10-26": 175,
       "2023-10-25": 104,
-      "2023-10-24": 188
+      "2023-10-24": 188,
+      "2023-10-23": 34
     }
   },
   {
@@ -140,9 +140,9 @@
     "url": "https://app.2rad-circle.de",
     "icon": "https://icons.duckduckgo.com/ip3/app.2rad-circle.de.ico",
     "slug": "2rad-circle-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -152,6 +152,7 @@
     "timeMonth": 595,
     "timeYear": 626,
     "dailyMinutesDown": {
+      "2023-12-26": 0,
       "2023-01-25": 39
     }
   },
@@ -164,7 +165,7 @@
     "uptime": "98.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.14%",
+    "uptimeMonth": "90.38%",
     "uptimeYear": "98.02%",
     "time": 1091,
     "timeDay": 956,

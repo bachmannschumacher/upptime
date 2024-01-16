@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bachmannschumacher.com.ico",
     "slug": "bachmann-schumacher-website",
     "status": "up",
-    "uptime": "97.65%",
+    "uptime": "97.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -45,18 +45,19 @@
     "url": "http://smservice.de",
     "icon": "https://icons.duckduckgo.com/ip3/smservice.de.ico",
     "slug": "sm-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "95.95%",
+    "uptimeDay": "95.93%",
     "uptimeWeek": "97.15%",
     "uptimeMonth": "98.03%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.56%",
     "time": 1438,
     "timeDay": 1708,
     "timeWeek": 2018,
     "timeMonth": 1854,
     "timeYear": 1427,
     "dailyMinutesDown": {
+      "2024-01-16": 0,
       "2024-01-15": 59,
       "2024-01-14": 44,
       "2024-01-13": 41,
@@ -111,8 +112,7 @@
       "2023-11-05": 36,
       "2023-11-04": 17,
       "2023-11-03": 232,
-      "2023-11-02": 49,
-      "2023-10-29": 17
+      "2023-11-02": 49
     }
   },
   {

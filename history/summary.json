@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bachmannschumacher.com.ico",
     "slug": "bachmann-schumacher-website",
     "status": "up",
-    "uptime": "97.71%",
+    "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -45,9 +45,9 @@
     "slug": "sm-service",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "98.05%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.09%",
     "uptimeYear": "99.58%",
     "time": 1450,
     "timeDay": 1673,
@@ -55,7 +55,7 @@
     "timeMonth": 2052,
     "timeYear": 1434,
     "dailyMinutesDown": {
-      "2024-02-01": 33,
+      "2024-02-01": 19,
       "2024-01-31": 100,
       "2024-01-30": 39,
       "2024-01-28": 20,
@@ -110,7 +110,8 @@
       "2023-11-15": 33,
       "2023-11-14": 13,
       "2023-11-12": 39,
-      "2023-11-11": 44
+      "2023-11-11": 44,
+      "2023-11-10": 21
     }
   },
   {

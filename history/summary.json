@@ -45,17 +45,16 @@
     "slug": "sm-service",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "98.09%",
-    "uptimeYear": "99.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "98.12%",
+    "uptimeYear": "99.58%",
     "time": 1453,
     "timeDay": 1627,
-    "timeWeek": 1768,
+    "timeWeek": 1784,
     "timeMonth": 2074,
     "timeYear": 1437,
     "dailyMinutesDown": {
-      "2024-02-04": 11,
       "2024-02-03": 68,
       "2024-02-01": 19,
       "2024-01-31": 100,
@@ -110,7 +109,8 @@
       "2023-11-17": 27,
       "2023-11-16": 52,
       "2023-11-15": 33,
-      "2023-11-14": 13
+      "2023-11-14": 13,
+      "2023-11-12": 39
     }
   },
   {
@@ -143,10 +143,10 @@
     "url": "https://app.2rad-circle.de",
     "icon": "https://icons.duckduckgo.com/ip3/app.2rad-circle.de.ico",
     "slug": "2rad-circle-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 624,
@@ -155,6 +155,7 @@
     "timeMonth": 659,
     "timeYear": 630,
     "dailyMinutesDown": {
+      "2024-02-04": 1,
       "2023-12-26": 180
     }
   },

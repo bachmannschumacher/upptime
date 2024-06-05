@@ -1,7 +1,7 @@
 url: https://shop.2rad-circle.de
-status: up
-code: 200
-responseTime: 586
-lastUpdated: 2024-06-04T23:11:28.900Z
+status: down
+code: 504
+responseTime: 2287
+lastUpdated: 2024-06-05T18:29:17.117Z
 startTime: 2024-01-04T08:47:40.892Z
 generator: Upptime <https://github.com/upptime/upptime>

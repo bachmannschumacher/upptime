@@ -186,18 +186,20 @@
     "url": "https://shop.2rad-circle.de",
     "icon": "https://icons.duckduckgo.com/ip3/shop.2rad-circle.de.ico",
     "slug": "2rad-circle-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 365,
-    "timeWeek": 647,
-    "timeMonth": 533,
-    "timeYear": 583,
-    "dailyMinutesDown": {}
+    "time": 581,
+    "timeDay": 386,
+    "timeWeek": 623,
+    "timeMonth": 529,
+    "timeYear": 581,
+    "dailyMinutesDown": {
+      "2024-06-08": 1
+    }
   },
   {
     "name": "ERP",

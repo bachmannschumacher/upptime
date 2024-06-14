@@ -14,7 +14,7 @@
     "timeDay": 973,
     "timeWeek": 828,
     "timeMonth": 866,
-    "timeYear": 992,
+    "timeYear": 994,
     "dailyMinutesDown": {
       "2024-05-01": 27,
       "2024-03-09": 28,
@@ -44,9 +44,9 @@
     "url": "http://smservice.de",
     "icon": "https://icons.duckduckgo.com/ip3/smservice.de.ico",
     "slug": "sm-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.59%",
@@ -54,8 +54,9 @@
     "timeDay": 1462,
     "timeWeek": 1321,
     "timeMonth": 1313,
-    "timeYear": 1460,
+    "timeYear": 1459,
     "dailyMinutesDown": {
+      "2024-06-14": 0,
       "2024-06-10": 43,
       "2024-02-09": 62,
       "2024-02-08": 35,
@@ -108,8 +109,7 @@
       "2023-11-27": 39,
       "2023-11-25": 95,
       "2023-11-24": 24,
-      "2023-11-22": 17,
-      "2023-11-21": 20
+      "2023-11-22": 17
     }
   },
   {
@@ -204,7 +204,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/erpnext.bachmannschumacher.com.ico",
     "slug": "erp",
     "status": "down",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",

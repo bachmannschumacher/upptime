@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bachmannschumacher.com.ico",
     "slug": "bachmann-schumacher-website",
     "status": "up",
-    "uptime": "98.18%",
+    "uptime": "98.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -43,9 +43,9 @@
     "url": "http://smservice.de",
     "icon": "https://icons.duckduckgo.com/ip3/smservice.de.ico",
     "slug": "sm-service",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.58%",
@@ -53,8 +53,9 @@
     "timeDay": 1357,
     "timeWeek": 1667,
     "timeMonth": 1671,
-    "timeYear": 1523,
+    "timeYear": 1524,
     "dailyMinutesDown": {
+      "2024-07-24": 0,
       "2024-07-22": 21,
       "2024-07-21": 22,
       "2024-07-17": 20,
@@ -109,8 +110,7 @@
       "2023-12-09": 21,
       "2023-12-08": 88,
       "2023-12-05": 37,
-      "2023-12-04": 21,
-      "2023-12-02": 19
+      "2023-12-04": 21
     }
   },
   {
@@ -203,7 +203,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/erpnext.bachmannschumacher.com.ico",
     "slug": "erp",
     "status": "down",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -269,7 +269,7 @@
     "uptimeYear": "99.97%",
     "time": 1333,
     "timeDay": 772,
-    "timeWeek": 1023,
+    "timeWeek": 1099,
     "timeMonth": 1190,
     "timeYear": 1103,
     "dailyMinutesDown": {

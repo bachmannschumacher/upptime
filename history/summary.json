@@ -43,18 +43,19 @@
     "url": "http://smservice.de",
     "icon": "https://icons.duckduckgo.com/ip3/smservice.de.ico",
     "slug": "sm-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.58%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.59%",
     "time": 1537,
     "timeDay": 1622,
     "timeWeek": 3265,
     "timeMonth": 2063,
     "timeYear": 1553,
     "dailyMinutesDown": {
+      "2024-08-13": 0,
       "2024-08-11": 20,
       "2024-08-10": 38,
       "2024-08-09": 24,
@@ -110,8 +111,7 @@
       "2023-12-12": 20,
       "2023-12-11": 53,
       "2023-12-10": 30,
-      "2023-12-09": 21,
-      "2023-12-08": 19
+      "2023-12-09": 21
     }
   },
   {
@@ -231,7 +231,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/learn.bachmannschumacher.com.ico",
     "slug": "winterdienst-akademie",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",

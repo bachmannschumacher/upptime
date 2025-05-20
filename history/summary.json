@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bachmannschumacher.com.ico",
     "slug": "bachmann-schumacher-website",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 953,
-    "timeDay": 787,
-    "timeWeek": 1050,
-    "timeMonth": 1015,
-    "timeYear": 956,
+    "timeDay": 815,
+    "timeWeek": 1007,
+    "timeMonth": 1008,
+    "timeYear": 955,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 1652,
-    "timeDay": 1311,
-    "timeWeek": 1799,
-    "timeMonth": 1725,
+    "timeDay": 1443,
+    "timeWeek": 1819,
+    "timeMonth": 1715,
     "timeYear": 1640,
     "dailyMinutesDown": {
       "2025-04-16": 93,
@@ -97,10 +97,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1611,
-    "timeDay": 6563,
-    "timeWeek": 2865,
-    "timeMonth": 1712,
-    "timeYear": 1668,
+    "timeDay": 881,
+    "timeWeek": 2855,
+    "timeMonth": 1709,
+    "timeYear": 1654,
     "dailyMinutesDown": {
       "2024-10-16": 23
     }
@@ -116,9 +116,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 652,
-    "timeDay": 547,
-    "timeWeek": 752,
+    "time": 651,
+    "timeDay": 655,
+    "timeWeek": 750,
     "timeMonth": 701,
     "timeYear": 663,
     "dailyMinutesDown": {
@@ -139,9 +139,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1243,
-    "timeDay": 1070,
-    "timeWeek": 1415,
-    "timeMonth": 1313,
+    "timeDay": 1107,
+    "timeWeek": 1400,
+    "timeMonth": 1311,
     "timeYear": 1241,
     "dailyMinutesDown": {}
   },
@@ -157,10 +157,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 579,
-    "timeDay": 251,
-    "timeWeek": 530,
-    "timeMonth": 494,
-    "timeYear": 577,
+    "timeDay": 484,
+    "timeWeek": 549,
+    "timeMonth": 499,
+    "timeYear": 576,
     "dailyMinutesDown": {}
   },
   {
@@ -174,10 +174,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1297,
-    "timeDay": 1150,
-    "timeWeek": 1445,
-    "timeMonth": 1343,
+    "time": 1296,
+    "timeDay": 1162,
+    "timeWeek": 1435,
+    "timeMonth": 1340,
     "timeYear": 1295,
     "dailyMinutesDown": {}
   },
@@ -191,15 +191,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1675,
-    "timeDay": 931,
-    "timeWeek": 1193,
-    "timeMonth": 1099,
-    "timeYear": 1692,
-    "dailyMinutesDown": {
-      "2024-05-20": 20
-    }
+    "timeDay": 908,
+    "timeWeek": 1156,
+    "timeMonth": 1098,
+    "timeYear": 1680,
+    "dailyMinutesDown": {}
   },
   {
     "name": "BusCamper",
@@ -211,14 +209,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1086,
-    "timeDay": 890,
-    "timeWeek": 1169,
-    "timeMonth": 1080,
+    "timeDay": 857,
+    "timeWeek": 1167,
+    "timeMonth": 1077,
     "timeYear": 1084,
-    "dailyMinutesDown": {
-      "2024-05-20": 20
-    }
+    "dailyMinutesDown": {}
   }
 ]

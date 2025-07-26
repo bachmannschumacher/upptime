@@ -22,18 +22,19 @@
     "url": "http://smservice.de",
     "icon": "https://icons.duckduckgo.com/ip3/smservice.de.ico",
     "slug": "sm-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "98.31%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.74%",
     "time": 1640,
-    "timeDay": 2652,
+    "timeDay": 1995,
     "timeWeek": 1833,
     "timeMonth": 1666,
-    "timeYear": 1659,
+    "timeYear": 1660,
     "dailyMinutesDown": {
+      "2025-07-26": 0,
       "2025-07-25": 24,
       "2025-07-24": 19,
       "2025-07-03": 17,
@@ -91,7 +92,7 @@
     "timeDay": 1280,
     "timeWeek": 1134,
     "timeMonth": 1422,
-    "timeYear": 1687,
+    "timeYear": 1690,
     "dailyMinutesDown": {
       "2025-07-03": 21,
       "2024-10-16": 23
@@ -112,7 +113,7 @@
     "timeDay": 759,
     "timeWeek": 673,
     "timeMonth": 679,
-    "timeYear": 682,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2025-07-17": 36,
       "2025-02-27": 45,
@@ -153,7 +154,7 @@
     "timeDay": 640,
     "timeWeek": 580,
     "timeMonth": 489,
-    "timeYear": 575,
+    "timeYear": 576,
     "dailyMinutesDown": {}
   },
   {
@@ -171,7 +172,7 @@
     "timeDay": 1526,
     "timeWeek": 1325,
     "timeMonth": 1314,
-    "timeYear": 1308,
+    "timeYear": 1309,
     "dailyMinutesDown": {}
   },
   {
@@ -189,7 +190,7 @@
     "timeDay": 1034,
     "timeWeek": 1052,
     "timeMonth": 1108,
-    "timeYear": 1319,
+    "timeYear": 1314,
     "dailyMinutesDown": {}
   },
   {
@@ -207,7 +208,7 @@
     "timeDay": 1174,
     "timeWeek": 1076,
     "timeMonth": 1024,
-    "timeYear": 1070,
+    "timeYear": 1071,
     "dailyMinutesDown": {}
   }
 ]

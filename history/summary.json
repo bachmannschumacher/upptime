@@ -178,19 +178,19 @@
     "url": "https://learn.bachmannschumacher.com",
     "icon": "https://icons.duckduckgo.com/ip3/learn.bachmannschumacher.com.ico",
     "slug": "winterdienst-akademie",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1639,
-    "timeDay": 1135,
-    "timeWeek": 1115,
-    "timeMonth": 1159,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 1636,
+    "timeDay": 1089,
+    "timeWeek": 1102,
+    "timeMonth": 1154,
     "timeYear": 1150,
     "dailyMinutesDown": {
-      "2025-08-27": 0
+      "2025-08-27": 27
     }
   },
   {

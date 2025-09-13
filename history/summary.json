@@ -126,18 +126,20 @@
     "url": "https://meta.2rad-circle.de",
     "icon": "https://icons.duckduckgo.com/ip3/meta.2rad-circle.de.ico",
     "slug": "2rad-circle-meta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1251,
-    "timeDay": 1217,
-    "timeWeek": 1302,
-    "timeMonth": 1241,
-    "timeYear": 1266,
-    "dailyMinutesDown": {}
+    "time": 1271,
+    "timeDay": 6095,
+    "timeWeek": 2511,
+    "timeMonth": 1545,
+    "timeYear": 1292,
+    "dailyMinutesDown": {
+      "2025-09-13": 0
+    }
   },
   {
     "name": "2rad-circle Shop",

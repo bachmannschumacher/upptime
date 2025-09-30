@@ -82,18 +82,19 @@
     "url": "https://2rad-circle.de",
     "icon": "https://icons.duckduckgo.com/ip3/2rad-circle.de.ico",
     "slug": "2rad-circle",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1602,
+    "time": 1604,
     "timeDay": 921,
     "timeWeek": 1668,
     "timeMonth": 1178,
     "timeYear": 1676,
     "dailyMinutesDown": {
+      "2025-09-30": 0,
       "2025-07-03": 21,
       "2024-10-16": 23
     }
@@ -184,9 +185,9 @@
     "url": "https://learn.bachmannschumacher.com",
     "icon": "https://icons.duckduckgo.com/ip3/learn.bachmannschumacher.com.ico",
     "slug": "winterdienst-akademie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -196,6 +197,7 @@
     "timeMonth": 1059,
     "timeYear": 1076,
     "dailyMinutesDown": {
+      "2025-09-30": 0,
       "2025-08-27": 27
     }
   },
@@ -204,9 +206,9 @@
     "url": "https://bus-camper.de",
     "icon": "https://icons.duckduckgo.com/ip3/bus-camper.de.ico",
     "slug": "bus-camper",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -215,6 +217,8 @@
     "timeWeek": 973,
     "timeMonth": 1005,
     "timeYear": 1064,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-30": 0
+    }
   }
 ]

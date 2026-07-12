@@ -28,11 +28,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/smservice.de.ico",
     "slug": "sm-service",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "92.94%",
-    "uptimeWeek": "96.98%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "99.24%",
+    "uptime": "99.77%",
+    "uptimeDay": "79.85%",
+    "uptimeWeek": "95.11%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "99.20%",
     "time": 1656,
     "timeDay": 1268,
     "timeWeek": 1504,
@@ -93,7 +93,7 @@
       "2026-06-27": 172,
       "2026-07-07": 203,
       "2026-07-11": 97,
-      "2026-07-12": 5
+      "2026-07-12": 194
     }
   },
   {
@@ -125,11 +125,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.2rad-circle.de.ico",
     "slug": "2rad-circle-app",
     "status": "down",
-    "uptime": "95.65%",
+    "uptime": "95.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.64%",
+    "uptimeYear": "81.60%",
     "time": 682,
     "timeDay": 0,
     "timeWeek": 0,
@@ -140,7 +140,7 @@
       "2025-11-25": 15,
       "2026-04-23": 440,
       "2026-04-22": 147,
-      "2026-07-12": 18,
+      "2026-07-12": 206,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
@@ -224,7 +224,7 @@
     "time": 1408,
     "timeDay": 1158,
     "timeWeek": 1530,
-    "timeMonth": 1508,
+    "timeMonth": 1521,
     "timeYear": 1455,
     "dailyMinutesDown": {
       "2025-09-15": 331,
@@ -247,7 +247,7 @@
     "time": 694,
     "timeDay": 354,
     "timeWeek": 851,
-    "timeMonth": 895,
+    "timeMonth": 916,
     "timeYear": 756,
     "dailyMinutesDown": {
       "2026-03-23": 62,
@@ -271,7 +271,7 @@
     "time": 1357,
     "timeDay": 1602,
     "timeWeek": 1654,
-    "timeMonth": 1556,
+    "timeMonth": 1562,
     "timeYear": 1367,
     "dailyMinutesDown": {}
   },
@@ -289,7 +289,7 @@
     "time": 1641,
     "timeDay": 2926,
     "timeWeek": 2538,
-    "timeMonth": 3044,
+    "timeMonth": 3042,
     "timeYear": 1795,
     "dailyMinutesDown": {
       "2025-08-27": 27,
@@ -313,7 +313,7 @@
     "time": 1038,
     "timeDay": 826,
     "timeWeek": 964,
-    "timeMonth": 977,
+    "timeMonth": 980,
     "timeYear": 1020,
     "dailyMinutesDown": {
       "2025-09-30": 19,

@@ -13,7 +13,7 @@
     "time": 1074,
     "timeDay": 1669,
     "timeWeek": 1338,
-    "timeMonth": 1226,
+    "timeMonth": 1238,
     "timeYear": 1098,
     "dailyMinutesDown": {
       "2025-12-09": 22,
@@ -27,17 +27,17 @@
     "url": "http://smservice.de",
     "icon": "https://icons.duckduckgo.com/ip3/smservice.de.ico",
     "slug": "sm-service",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "94.82%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "96.62%",
-    "uptimeYear": "99.02%",
+    "uptimeDay": "89.91%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "96.46%",
+    "uptimeYear": "99.01%",
     "time": 1663,
-    "timeDay": 1700,
-    "timeWeek": 1426,
-    "timeMonth": 1615,
-    "timeYear": 1659,
+    "timeDay": 1797,
+    "timeWeek": 1478,
+    "timeMonth": 1626,
+    "timeYear": 1660,
     "dailyMinutesDown": {
       "2025-08-07": 51,
       "2025-08-09": 24,
@@ -99,7 +99,7 @@
       "2026-07-25": 142,
       "2026-07-27": 138,
       "2026-08-01": 73,
-      "2026-08-02": 1
+      "2026-08-02": 72
     }
   },
   {
@@ -116,7 +116,7 @@
     "time": 1974,
     "timeDay": 7234,
     "timeWeek": 4011,
-    "timeMonth": 3468,
+    "timeMonth": 3535,
     "timeYear": 2072,
     "dailyMinutesDown": {
       "2025-09-30": 19,
@@ -135,7 +135,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.90%",
+    "uptimeYear": "75.88%",
     "time": 673,
     "timeDay": 0,
     "timeWeek": 0,
@@ -145,7 +145,7 @@
       "2025-11-25": 15,
       "2026-04-23": 440,
       "2026-04-22": 147,
-      "2026-08-02": 2,
+      "2026-08-02": 78,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -250,7 +250,7 @@
     "time": 1423,
     "timeDay": 2083,
     "timeWeek": 1506,
-    "timeMonth": 1588,
+    "timeMonth": 1594,
     "timeYear": 1473,
     "dailyMinutesDown": {
       "2025-09-15": 331,
@@ -273,7 +273,7 @@
     "time": 708,
     "timeDay": 1176,
     "timeWeek": 1011,
-    "timeMonth": 893,
+    "timeMonth": 883,
     "timeYear": 777,
     "dailyMinutesDown": {
       "2026-03-23": 62,
@@ -298,7 +298,7 @@
     "time": 1362,
     "timeDay": 1936,
     "timeWeek": 1229,
-    "timeMonth": 1531,
+    "timeMonth": 1552,
     "timeYear": 1377,
     "dailyMinutesDown": {}
   },
@@ -316,7 +316,7 @@
     "time": 1739,
     "timeDay": 3433,
     "timeWeek": 3851,
-    "timeMonth": 3130,
+    "timeMonth": 3118,
     "timeYear": 1916,
     "dailyMinutesDown": {
       "2025-08-27": 27,
@@ -340,7 +340,7 @@
     "time": 1037,
     "timeDay": 1132,
     "timeWeek": 946,
-    "timeMonth": 1016,
+    "timeMonth": 1019,
     "timeYear": 1020,
     "dailyMinutesDown": {
       "2025-09-30": 19,

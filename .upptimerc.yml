@@ -6,16 +6,18 @@ assignees:
   - thomasrehm
 
 sites:
+  - name: Odoo B+S
+    url: https://bachmannschumacher.de
+  - name: Odoo SM
+    url: https://odoo.smservice.de
+  - name: Website SM
+    url: https://smservice.de
   - name: Bachmann + Schumacher Website
     url: https://bachmannschumacher.com
   - name: SM Service
     url: http://smservice.de
   - name: 2rad-circle
     url: https://2rad-circle.de
-  - name: 2rad-circle App
-    url: https://app.2rad-circle.de
-  - name: 2rad-circle Meta
-    url: https://meta.2rad-circle.de
   - name: 2rad-circle Shop
     url: https://shop.2rad-circle.de
   - name: ERP

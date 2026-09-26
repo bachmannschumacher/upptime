@@ -58,16 +58,16 @@
     "url": "https://bachmannschumacher.com",
     "icon": "https://icons.duckduckgo.com/ip3/bachmannschumacher.com.ico",
     "slug": "bachmann-schumacher-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "88.87%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.94%",
     "time": 1088,
-    "timeDay": 1413,
-    "timeWeek": 1133,
-    "timeMonth": 1097,
+    "timeDay": 1121,
+    "timeWeek": 1099,
+    "timeMonth": 1089,
     "timeYear": 1119,
     "dailyMinutesDown": {
       "2025-12-09": 22,
@@ -75,7 +75,7 @@
       "2025-12-11": 27,
       "2026-03-04": 25,
       "2026-08-24": 37,
-      "2026-09-26": 15
+      "2026-09-26": 160
     }
   },
   {
@@ -163,24 +163,24 @@
     "url": "https://2rad-circle.de",
     "icon": "https://icons.duckduckgo.com/ip3/2rad-circle.de.ico",
     "slug": "2rad-circle",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.97%",
-    "time": 2183,
-    "timeDay": 7302,
-    "timeWeek": 3613,
-    "timeMonth": 3725,
-    "timeYear": 2424,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "89.21%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.94%",
+    "time": 2162,
+    "timeDay": 4051,
+    "timeWeek": 3300,
+    "timeMonth": 3637,
+    "timeYear": 2419,
     "dailyMinutesDown": {
       "2025-09-30": 19,
       "2025-12-10": 21,
       "2025-12-11": 27,
       "2026-04-13": 51,
       "2026-08-24": 37,
-      "2026-09-26": 10
+      "2026-09-26": 155
     }
   },
   {
@@ -231,17 +231,17 @@
     "url": "https://learn.bachmannschumacher.com",
     "icon": "https://icons.duckduckgo.com/ip3/learn.bachmannschumacher.com.ico",
     "slug": "winterdienst-akademie",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.93%",
-    "time": 1915,
-    "timeDay": 3422,
-    "timeWeek": 3038,
-    "timeMonth": 3135,
-    "timeYear": 2169,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "89.54%",
+    "uptimeWeek": "96.62%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.91%",
+    "time": 1921,
+    "timeDay": 3544,
+    "timeWeek": 3095,
+    "timeMonth": 3150,
+    "timeYear": 2173,
     "dailyMinutesDown": {
       "2025-09-30": 19,
       "2025-12-10": 32,
@@ -249,7 +249,7 @@
       "2026-01-18": 50,
       "2026-08-24": 21,
       "2026-09-23": 190,
-      "2026-09-26": 5
+      "2026-09-26": 151
     }
   },
   {
@@ -257,16 +257,16 @@
     "url": "https://bus-camper.de",
     "icon": "https://icons.duckduckgo.com/ip3/bus-camper.de.ico",
     "slug": "bus-camper",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "89.88%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.93%",
     "time": 1009,
-    "timeDay": 903,
-    "timeWeek": 966,
-    "timeMonth": 926,
+    "timeDay": 934,
+    "timeWeek": 965,
+    "timeMonth": 928,
     "timeYear": 1008,
     "dailyMinutesDown": {
       "2025-09-30": 19,
@@ -274,7 +274,7 @@
       "2025-12-11": 27,
       "2026-01-22": 30,
       "2026-04-13": 111,
-      "2026-09-26": 0
+      "2026-09-26": 146
     }
   }
 ]
